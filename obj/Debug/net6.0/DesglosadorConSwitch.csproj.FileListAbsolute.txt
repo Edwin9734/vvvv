@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\bin\Debug\net6.0\DesglosadorConSwitch.exe
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\bin\Debug\net6.0\DesglosadorConSwitch.deps.json
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\bin\Debug\net6.0\DesglosadorConSwitch.runtimeconfig.json
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\bin\Debug\net6.0\DesglosadorConSwitch.dll
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\bin\Debug\net6.0\ref\DesglosadorConSwitch.dll
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\bin\Debug\net6.0\DesglosadorConSwitch.pdb
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.dll
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\ref\DesglosadorConSwitch.dll
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.pdb
+C:\Users\Usuario\source\repos\DesglosadorConSwitch\obj\Debug\net6.0\DesglosadorConSwitch.genruntimeconfig.cache
